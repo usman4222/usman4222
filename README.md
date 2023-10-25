@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Usman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate mern developer from Pakistan</h3>
 <img align = "right" alt = "code" width = "400" src ="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman4222" alt="usman4222" /></a> </p>

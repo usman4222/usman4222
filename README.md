@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Coding**
 
-- 📝 I regularly write articles on [https://medium.com/@usman4243ch/how-to-make-yourself-strengthen-physically-and-mentally-3a6a67493786](https://medium.com/@usman4243ch/how-to-make-yourself-strengthen-physically-and-mentally-3a6a67493786)
-
 - 📫 How to reach me **usman4243ch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
